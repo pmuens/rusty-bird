@@ -2,6 +2,10 @@
 
 A [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) clone written in Rust following the ["Hands-on Rust" Book](https://pragprog.com/titles/hwrust/hands-on-rust) by Herbert Wolverson.
 
+|            Menu            |             Playing              |           End            |
+| :------------------------: | :------------------------------: | :----------------------: |
+| ![Menu](./assets/menu.png) | ![Playing](./assets/playing.png) | ![End](./assets/end.png) |
+
 ## Useful Commands
 
 ```sh
