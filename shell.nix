@@ -2,6 +2,7 @@
 
 pkgs.mkShell {
   buildInputs = with pkgs; [
+    curl
     rustup
     libiconv
     darwin.apple_sdk.frameworks.AppKit
